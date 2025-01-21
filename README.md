@@ -45,4 +45,4 @@ By working through the projects in this repository, you'll gain practical experi
 To get started with any of the projects in this repository, clone the repo and navigate to the specific project folder:
 
 ```bash
-git clone https://github.com/rubenhtun/React-Master.git
+git clone https://github.com/rubenhtun/react-master.git
